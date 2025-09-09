@@ -15,12 +15,6 @@
       return Lampa.Utils.capitalizeFirstLetter(title.split('.')[0]);
     }
 
-    function isVIP(element) {
-      return;
-    }
-
-    
-
     function qualityDefault(qualitys) {
       var preferably = Lampa.Storage.get('video_quality_default', '1080') + 'p';
       var url;
