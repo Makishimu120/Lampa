@@ -4,7 +4,7 @@
     var Defined = {
       use_api: 'http',
       localhost: 'https://vi.sisi.am',
-      vip_site: '',
+      vip_site: 'http://sisi.am',
       framework: ''
     };
 
