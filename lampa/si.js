@@ -2,7 +2,7 @@
     'use strict';
 
     var Defined = {
-      use_api: 'lampac',
+      use_api: 'http',
       localhost: 'https://vi.sisi.am',
       vip_site: '',
       framework: ''
