@@ -16,7 +16,7 @@
     }
 
 	function isVIP(element) {
-      return element;
+      return element.video;
     }
 
     function qualityDefault(qualitys) {
