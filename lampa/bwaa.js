@@ -993,9 +993,9 @@
         }
         Lampa.ParentalControl.query(function() {
           Api.menu(function(data) {
-             let items = [{
-                 title: 'Все'
-             }]
+             //let items = [{
+             //    title: 'Все'
+             //}]
             var items = [];
 
             if (false && (Defined.use_api == 'lampac' || Lampa.Platform.is('android'))) {
