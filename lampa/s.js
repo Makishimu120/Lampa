@@ -3,7 +3,7 @@
 
     var Defined = {
       use_api: 'lampac',
-      localhost: 'https://vi.sisi.am',
+      localhost: 'https://rc.bwa.to/sisi',
       vip_site: '',
       framework: ''
     };
